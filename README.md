@@ -1,4 +1,5 @@
 # SQLite Template
+<img width="320" height="290" alt="SQLite_template" src="https://github.com/user-attachments/assets/cb292f55-927f-4fdd-9891-0dbab1948402" />
 
 A bare-bones SQLite database template with Python for quick database operations.
 
